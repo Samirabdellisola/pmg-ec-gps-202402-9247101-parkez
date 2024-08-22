@@ -41,7 +41,7 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Atualmente, encontrar uma vaga de estacionamento, especialmente em áreas urbanas e durante horários de pico, é uma tarefa difícil e estressante para motoristas. Muitos estabelecimentos possuem vagas limitadas ou não oferecem informações claras sobre a disponibilidade de estacionamento, o que leva a desperdício de tempo e combustível. Além disso, a incerteza sobre a disponibilidade de vagas faz com que muitos clientes deixem de frequentar determinados estabelecimentos, temendo não encontrar um local para estacionar. A falta de uma solução centralizada para reservas de vagas prejudica a experiência dos motoristas, que prefeririam chegar ao destino com a segurança de que terão uma vaga reservada. Essa dificuldade em gerenciar a disponibilidade e o acesso a vagas de estacionamento impacta negativamente tanto motoristas quanto proprietários de estabelecimentos e estacionamentos, que perdem oportunidades de atrair e reter clientes.
 
 > Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
 > A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
@@ -51,7 +51,16 @@
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Objetivos
+Objetivo Geral:
+Desenvolver um aplicativo mobile que permita aos usuários localizar e reservar vagas de estacionamento com antecedência, proporcionando maior conveniência e eficiência na gestão de vagas em áreas urbanas.
+
+Objetivos Específicos:
+
+Criar um sistema de busca que permita aos usuários localizar estabelecimentos e estacionamentos associados ao aplicativo, exibindo informações sobre a disponibilidade de vagas em tempo real.
+Implementar um mecanismo de reserva de vagas que possibilite aos usuários garantir uma vaga antes de chegar ao local, pagando uma entrada pelo app e o restante no estacionamento.
+Desenvolver funcionalidades de promoção e parcerias, permitindo que usuários aproveitem descontos e benefícios em eventos e estabelecimentos associados.
+Oferecer um clube de assinantes premium com vantagens exclusivas, como tarifas reduzidas para usuários frequentes do aplicativo.
 
 > Aqui você deve descrever os objetivos do trabalho.
 > Apresente um Objetivo Geral, sintetizado em uma única frase.
@@ -63,7 +72,17 @@
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O desenvolvimento do aplicativo PARKEZ responde a uma necessidade crescente de motoristas que enfrentam dificuldades em encontrar vagas de estacionamento, especialmente em áreas urbanas densamente povoadas. A incerteza sobre a disponibilidade de vagas frequentemente desencoraja clientes de frequentar estabelecimentos ou participar de eventos, resultando em perdas tanto para os consumidores quanto para os proprietários de negócios.
+
+Ao fornecer uma solução centralizada que permite a reserva antecipada de vagas, o PARKEZ não apenas melhora a experiência do usuário, proporcionando maior conveniência e segurança, mas também contribui para a otimização do uso de vagas de estacionamento. Estabelecimentos e estacionamentos associados poderão atrair mais clientes, aproveitando a visibilidade e a facilidade de uso do aplicativo. Além disso, a possibilidade de parcerias e promoções dentro do app agrega valor para todos os envolvidos, incentivando a fidelização de clientes.
+
+Os benefícios esperados incluem:
+
+Redução do tempo e estresse na busca por vagas, resultando em uma experiência mais agradável para motoristas.
+Aumento da frequência de visitas a estabelecimentos associados, impulsionando suas receitas.
+Melhoria na gestão de vagas de estacionamento, otimizando o uso do espaço disponível.
+Criação de um novo canal de marketing e vendas para estabelecimentos e eventos parceiros.
+Essas justificativas demonstram como o PARKEZ atende a uma demanda específica, oferecendo uma solução prática e inovadora para um problema comum, com impactos positivos tanto para os usuários quanto para a comunidade de negócios.
 
 > Aqui você deve descrever os benefícios esperados pela construção do projeto.
 > As justificativas do projeto explicam as razões e a necessidade da iniciativa.
