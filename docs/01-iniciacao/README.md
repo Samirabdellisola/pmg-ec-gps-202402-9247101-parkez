@@ -91,7 +91,22 @@ Essas justificativas demonstram como o PARKEZ atende a uma demanda específica, 
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
+
+Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os objetivos estabelecidos foram alcançados e se o projeto foi executado de maneira eficaz. Esses critérios incluem:
+
+1. Entrega dentro do prazo e orçamento: O projeto será considerado bem-sucedido se for concluído dentro do cronograma planejado e sem ultrapassar o orçamento estipulado.
+
+2. Satisfação do cliente: A aceitação positiva do aplicativo pelos usuários, medida por avaliações, feedbacks e taxa de adesão, será um indicador chave de sucesso. A satisfação dos parceiros comerciais (estabelecimentos e estacionamentos) também será avaliada.
+
+3. Qualidade do produto: O PARKEZ deve ser entregue com alta qualidade, demonstrando estabilidade, usabilidade, e desempenho conforme especificado. A ausência de falhas críticas e a resposta rápida a eventuais problemas são aspectos essenciais.
+
+4. Eficiência na utilização de recursos: O projeto será avaliado pela eficiência no uso dos recursos disponíveis, incluindo equipe, tecnologia e infraestrutura. A capacidade de otimizar o uso desses recursos sem comprometer a qualidade será um critério importante.
+
+5. Atendimento aos requisitos e expectativas: O aplicativo deve cumprir todos os requisitos funcionais e não funcionais definidos no escopo do projeto, atendendo às expectativas das partes interessadas, incluindo usuários finais, parceiros e investidores.
+
+6. Gestão eficaz de riscos: O sucesso do projeto também será medido pela capacidade da equipe de identificar, mitigar e responder a riscos ao longo do ciclo de desenvolvimento, minimizando impactos negativos e garantindo a continuidade das atividades.
+
+  Esses critérios fornecem uma base clara para avaliar o êxito do projeto, assegurando que o PARKEZ atenda às necessidades dos usuários e parceiros enquanto é entregue de forma eficiente e dentro dos parâmetros estabelecidos.
 
 > Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
 > Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
