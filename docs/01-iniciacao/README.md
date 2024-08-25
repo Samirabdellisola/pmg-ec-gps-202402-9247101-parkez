@@ -125,9 +125,9 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
+|  Felipe Thomaz  | Coordenador Técnico | Desenvolvedor & UX | felipethomaz007@gmail.com | 31971420803 |
+| Raphael Rezende | Gerente de Projetos | Desenvolvedor Principal  | rapharreis2010@gmail.com | 31988519083 |
+|    Mauricio     | Analista de Testes (Representante dos Usuários) | Beta Tester |              | 319877-9204 |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
@@ -147,9 +147,9 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 
 | Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
+|    Felipe Thomaz    | Definir requisitos do aplicativo, priorizar funcionalidades e assegurar que o produto final atenda às necessidades dos usuários | Alta | Alta | Positivo             |               |
+|    Raphael Rezende  | Implementar as principais funcionalidades do aplicativo e garantir a qualidade técnica do produto. | Media | Alta | Positivo | |
+|    Mauricio     |  Validar a usabilidade do aplicativo e fornecer feedback sobre a experiência do usuário. | Baixa | Alta | Positivo |             |
 |                 |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |
 |                 |                        |               |                     |             |               |
