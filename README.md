@@ -2,17 +2,18 @@
 
 # Nome do projeto
 
-......  COLOQUE AQUI O SEU TEXTO ......
+PARKEZ
 
 > Descreva, em um ou dois parágrafos, um resumo do projeto (principais objetivos e justificativa).
+> 
 
 ## Alunos integrantes da equipe
 
-* [Nome completo do aluno 1 (com link para Github)](https://github.com/aluno1)
-* [Nome completo do aluno 2 (com link para Github)](https://github.com/aluno2)
-* [Nome completo do aluno 3 (com link para Github)](https://github.com/aluno3)
-* [Nome completo do aluno 4 (com link para Github)](https://github.com/aluno4)
-* [Nome completo do aluno 5 (com link para Github)](https://github.com/aluno5)
+* Bruno Henrique Freitas
+* Felipe Thomaz Costa
+* Maurício Ribeiro Lopes Ferreira (https://github.com/MauRilof)
+* Raphael Rezende Reis (https://github.com/RaphaelRReis10)
+
 
 ## Professor responsável
 
