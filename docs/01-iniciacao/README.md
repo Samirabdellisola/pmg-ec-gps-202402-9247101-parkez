@@ -43,12 +43,6 @@
 
 Atualmente, encontrar uma vaga de estacionamento, especialmente em áreas urbanas e durante horários de pico, é uma tarefa difícil e estressante para motoristas. Muitos estabelecimentos possuem vagas limitadas ou não oferecem informações claras sobre a disponibilidade de estacionamento, o que leva a desperdício de tempo e combustível. Além disso, a incerteza sobre a disponibilidade de vagas faz com que muitos clientes deixem de frequentar determinados estabelecimentos, temendo não encontrar um local para estacionar. A falta de uma solução centralizada para reservas de vagas prejudica a experiência dos motoristas, que prefeririam chegar ao destino com a segurança de que terão uma vaga reservada. Essa dificuldade em gerenciar a disponibilidade e o acesso a vagas de estacionamento impacta negativamente tanto motoristas quanto proprietários de estabelecimentos e estacionamentos, que perdem oportunidades de atrair e reter clientes.
 
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
-
 ## Objetivos
 
 Objetivos
@@ -61,14 +55,6 @@ Criar um sistema de busca que permita aos usuários localizar estabelecimentos e
 Implementar um mecanismo de reserva de vagas que possibilite aos usuários garantir uma vaga antes de chegar ao local, pagando uma entrada pelo app e o restante no estacionamento.
 Desenvolver funcionalidades de promoção e parcerias, permitindo que usuários aproveitem descontos e benefícios em eventos e estabelecimentos associados.
 Oferecer um clube de assinantes premium com vantagens exclusivas, como tarifas reduzidas para usuários frequentes do aplicativo.
-
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
-
 
 ## Justificativa
 
@@ -83,11 +69,6 @@ Aumento da frequência de visitas a estabelecimentos associados, impulsionando s
 Melhoria na gestão de vagas de estacionamento, otimizando o uso do espaço disponível.
 Criação de um novo canal de marketing e vendas para estabelecimentos e eventos parceiros.
 Essas justificativas demonstram como o PARKEZ atende a uma demanda específica, oferecendo uma solução prática e inovadora para um problema comum, com impactos positivos tanto para os usuários quanto para a comunidade de negócios.
-
-> Aqui você deve descrever os benefícios esperados pela construção do projeto.
-> As justificativas do projeto explicam as razões e a necessidade da iniciativa.
-> Elas demonstram como o projeto atende a uma demanda específica, resolve um problema ou aproveita uma oportunidade identificada.
-> Além disso, definem os benefícios esperados e o impacto previsto para a organização ou a comunidade. 
 
 ## Critérios de Sucesso
 
@@ -108,61 +89,34 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 
   Esses critérios fornecem uma base clara para avaliar o êxito do projeto, assegurando que o PARKEZ atenda às necessidades dos usuários e parceiros enquanto é entregue de forma eficiente e dentro dos parâmetros estabelecidos.
 
-> Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
-
 # Partes Interessadas
-
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
 
 ## Identificação das Partes Interessadas
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|  Felipe Thomaz  | Coordenador Técnico | Desenvolvedor & UX | felipethomaz007@gmail.com | 31971420803 |
-| Raphael Rezende | Gerente de Projetos | Desenvolvedor Principal  | rapharreis2010@gmail.com | 31988519083 |
-|    Mauricio     | Analista de Testes (Representante dos Usuários) | Beta Tester |              | 319877-9204 |
+|  Felipe Thomaz  | Coordenador Técnico  | Desenvolvedor & UX       | felipetomaz009@gmail.com | 31999270803 |
+| Raphael Rezende | Gerente de Projetos  | Desenvolvedor Principal  | rapharreis2020@gmail.com | 31988518736 |
+|    Mauricio     | Analista de Testes   | SQA teste                | mauricioribeiro_99@hotmail.com| 319837-9204 |
+|     Bruno       | Desenvolvedor Sênior | Desenvolvedor            | brunoh85@gmail.com     | 37908195422 |
+|     Matheus     | Desenvolvedor Júnior | Desenvolvedor            | matheuslopes_2@gmail.com | 31984132751 |
+|     Augusto     | Cliente              | Apontar as necessidades  | augustoMag@hotmail.com   | 31978152231 |
 |                 |                 |               |             |             |
 |                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-
-> Opções de identificação dos stakeholders:
-> - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
-> - Posição / Cargo: Identificação do cargo da parte interessada
-> - - Ex.: Gerente de TI, Funcionário da Linha de Produção, Presidente, Analista de Sistema do Cliente, Desenvolvedor, etc.
-> - Papel no Projeto: Papel da pessoa no projeto
-> - - Ex.: Desenvolvedor, Analista de Requisitos, Analista de Testes, Product Owner, etc.
-> - E-mail: E-mail do Stakeholder (*não utilizar informações pessoais*)
-> - Telefone: Telefone do Stakeholder, incluindo WhatsApp (*não utilizar informações pessoais*)
 
 ## Avaliação das Partes Interessadas
 
-| Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
-|-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|    Felipe Thomaz    | Definir requisitos do aplicativo, priorizar funcionalidades e assegurar que o produto final atenda às necessidades dos usuários | Alta | Alta | Positivo             |               |
-|    Raphael Rezende  | Implementar as principais funcionalidades do aplicativo e garantir a qualidade técnica do produto. | Media | Alta | Positivo | |
-|    Mauricio     |  Validar a usabilidade do aplicativo e fornecer feedback sobre a experiência do usuário. | Baixa | Alta | Positivo |             |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
+## Avaliação das Partes Interessadas
 
-> Opções de avaliação:
-> - Expectativa: descrição da expectativa da parte interessada no projeto.
-> - - Ex.: Diminuição do tempo de realização das tarefas, aumento da produtividade, aumento da satisfação do cliente, etc.
-> - Influência: Alta, Média, Baixa
-> - Importância: Alta, Média, Baixa
-> - Apoio: Positivo, Negativo, Neutro
-> - Observações: Informações adicionais, para o cliente.
+| Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio  | Observações |
+|-----------------|------------------------|---------------|---------------------|-------------|---------------|
+| Felipe Thomaz   | Definir requisitos do aplicativo, priorizar funcionalidades e assegurar que o produto final atenda às necessidades dos usuários              | Alta          | Alta                | Positivo    |               |
+| Raphael Rezende | Implementar as principais funcionalidades do aplicativo e garantir a qualidade técnica do produto.                                          | Média         | Alta                | Positivo    |               |
+| Mauricio        | Validar a usabilidade do aplicativo e fornecer feedback sobre a experiência do usuário.                                                     | Baixa         | Alta                | Positivo    |               |
+| Bruno           | Contribuir com o desenvolvimento de funcionalidades avançadas e apoiar o time no design da arquitetura do aplicativo.                        | Média         | Alta                | Positivo    |               |
+| Matheus         | Apoiar no desenvolvimento de funcionalidades básicas e adquirir experiência prática em projetos de software.                                | Baixa         | Média               | Positivo    |               |
+| Augusto         | Fornecer feedback contínuo e detalhado sobre as necessidades e expectativas como cliente, garantindo que o produto final atenda aos requisitos | Alta          | Alta                | Positivo    |               |
+
 
 ```diff
 + Tarefa 01
