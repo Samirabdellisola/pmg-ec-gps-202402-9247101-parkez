@@ -97,12 +97,10 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 |-----------------|-----------------|---------------|-------------|-------------|
 |  Felipe Thomaz  | Coordenador Técnico  | Desenvolvedor & UX       | felipetomaz009@gmail.com | 31999270803 |
 | Raphael Rezende | Gerente de Projetos  | Desenvolvedor Principal  | rapharreis2020@gmail.com | 31988518736 |
-|    Mauricio     | Analista de Testes   | SQA teste                | mauricioribeiro_99@hotmail.com| 319837-9204 |
+|    Mauricio     | Analista Sênior      | SQA teste                | mauricioribeiro_99@hotmail.com| 319837-9204 |
 |     Bruno       | Desenvolvedor Sênior | Desenvolvedor            | brunoh85@gmail.com     | 37908195422 |
 |     Matheus     | Desenvolvedor Júnior | Desenvolvedor            | matheuslopes_2@gmail.com | 31984132751 |
 |     Augusto     | Cliente              | Apontar as necessidades  | augustoMag@hotmail.com   | 31978152231 |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
 
 ## Avaliação das Partes Interessadas
 
@@ -155,8 +153,8 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
+| Recursos Humanos        | Salário, alimentação|  1056 Hrs   | R$410,00  | R$432,960 |
+| Hardware                | Celulares, Computadores e periféricos |            |              |             |
 | Serviços de Rede        |           |            |              |             |
 | Hospedagem e Nuvem      |           |            |              |             |
 | Software de terceiros   |           |            |              |             |
