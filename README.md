@@ -9,8 +9,8 @@ PARKEZ
 
 ## Alunos integrantes da equipe
 
-* Bruno Henrique Freitas
-* Felipe Thomaz Costa
+* Bruno Henrique Freitas (https://github.com/Bruno-jhka)
+* Felipe Thomaz Costa (https://github.com/FelipeThomazCosta)
 * Maurício Ribeiro Lopes Ferreira (https://github.com/MauRilof)
 * Raphael Rezende Reis (https://github.com/RaphaelRReis10)
 
