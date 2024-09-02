@@ -130,26 +130,8 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 
 # Termo de Abertura do Projeto
 
-> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
-> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
-> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
-> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
-> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
-
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
-
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
@@ -164,20 +146,9 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
-
-> Indique:
-> * Prazo previsto (em horas) 
-> * Data de início
-> * Data de término
-
-* Prazo previsto (em horas): 2.664 horas
+* Prazo previsto (em horas): 4.128 horas
 * Data de início: 02 / 09 / 2024
-* Data de término: 22 / 12 / 2024
+* Data de término: 22 / 03 / 2025
 
 ## Escopo Preliminar e Premissas
 
@@ -186,10 +157,6 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 ## Declaração de Escopo
 
 ### Requisitos Funcionais
-
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 10) ......
-
-A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
 | ID     | Descrição do Requisito                                                                                                                                 | Prioridade |
 |--------|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
@@ -207,10 +174,6 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 ### Requisitos Não Funcionais
 
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
-
-A tabela a seguir apresenta os requisitos não funcionais do projeto. 
-
 | ID     | Descrição do Requisito                                                                                                             | Prioridade |
 |--------|------------------------------------------------------------------------------------------------------------------------------------|------------|
 | RNF-001| O aplicativo deve ser compatível com as plataformas iOS e Android, garantindo uma experiência consistente em ambos os sistemas.     | ALTA       |
@@ -223,9 +186,6 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 ### Restrições
 
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
-
-A tabela a seguir apresenta as restrições do projeto. 
 
 | ID     | Descrição da Restrição                                                                                                                |
 |--------|---------------------------------------------------------------------------------------------------------------------------------------|
@@ -239,40 +199,40 @@ A tabela a seguir apresenta as restrições do projeto.
 
 ### Contra-Escopo
 
-......  ATUALIZE O CONTRA-ESCOPO DO SISTEMA (MÍNIMO 5) ......
+| ID    | Descrição do Contra-Escopo                                 |
+|-------|------------------------------------------------------------|
+| CE-001| Gerenciamento de tráfego e rotas                           |
+| CE-002| Suporte a pagamentos de outros serviços                    |
+| CE-003| Integração com sistemas de transporte público               |
+| CE-004| Funcionalidades para veículos de grande porte               |
+| CE-005| Personalização detalhada de estacionamentos                 |
 
-A tabela a seguir apresenta as atividades que não serão executadas no projeto
-
-|ID    | Descrição do Contra-Escopo          | 
-|------|-------------------------------------|
-|CE-001| Treinamento de modelo de LLM        |
-|CE-002| Pesquisa de viabilidade do mercado. |
 
 ### Condições para início do Projeto
 
-......  ATUALIZE AS CONDIÇÕES PARA INÍCIO DOS PROJETOS (MÍNIMO 3) ......
-
-A tabela a seguir, apresente as condições para que o projeto seja iniciado.
-
-|ID    | Descrição de Condições para Início do Projeto    | 
-|------|--------------------------------------------------|
-|CI-001| Assinatura de contrato de prestação de serviços. |
-|CI-002| Apresentação de garantias definidas no contrato. |
+| ID    | Descrição da Condição para Início do Projeto                  |
+|-------|---------------------------------------------------------------|
+| CI-001| Aprovação do orçamento e alocação de recursos financeiros     |
+| CI-002| Definição e aprovação dos requisitos e especificações do sistema |
+| CI-003| Estabelecimento de parcerias e acordos com estabelecimentos    |
 
 ## Marcos Agendados e Entregas
 
-......  ATUALIZE OS MARCOS AGENDADOS DO PROJETO E AS DATAS PARA ENTREGAS DAS TAREFAS ......
+|| ID   | Marco do Projeto                                                  | Descrição Detalhada                                             | Data Prevista        |
+|------|-------------------------------------------------------------------|-----------------------------------------------------------------|----------------------|
+| M-1  | Desenvolvimento das páginas principais                           | Implementação das páginas de login, recuperação de senha, e página inicial (home). | 15/10/2024           |
+| M-2  | Liberação do sistema para cadastro de informações e configuração. | Finalização da configuração inicial e cadastro de informações. | 22/10/2024           |
+| M-3  | Desenvolvimento da funcionalidade de pesquisa e reserva de vagas  | Implementação das funcionalidades de pesquisa de locais e reserva de vagas com processamento de pagamentos. | 05/11/2024           |
+| M-4  | Desenvolvimento da funcionalidade de cancelamento de reservas      | Implementação da opção para cancelar reservas e políticas associadas. | 15/11/2024           |
+| M-5  | Desenvolvimento da página de perfil e histórico de reservas       | Criação das páginas de perfil do usuário e histórico de reservas. | 22/11/2024           |
+| M-6  | Implementação do sistema de notificações                           | Criação de notificações para confirmações de reserva, cancelamento e outras atualizações importantes. | 01/12/2024           |
+| M-7  | Disponibilização do clube de assinantes e benefícios               | Lançamento do clube de assinantes com benefícios e descontos exclusivos. | 15/12/2024           |
+| M-8  | Ativação da funcionalidade de descontos para eventos               | Implementação de descontos exclusivos para eventos especiais e integração com o sistema. | 01/01/2025           |
+| M-9  | Realização de testes finais e ajustes                            | Testes finais do sistema, correção de bugs e ajustes baseados no feedback dos usuários. | 01/03/2025           |
+| M-10 | Deploy nas plataformas de download (App Store e Google Play)       | Preparação e lançamento do aplicativo nas principais plataformas de download. | 10/03/2025           |
+| M-11 | Permissão para uso do sistema por usuários focais.                | Início da fase de uso real com usuários focais para validar a funcionalidade completa do sistema. | 22/03/2025           |
 
-A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos (requisitos).
 
-|ID   | Marco do Projeto                                                  | 
-|-----|-------------------------------------------------------------------|
-|M-1  | Liberação do sistema para cadastro de informações e configuração. |
-|M-2  | Permissão para uso do sistema, por usuários focais.               |
-|M-3  |                                                                   |
-|M-4  |                                                                   |
-|M-5  |                                                                   |
-|M-6  |                                                                   |
 
 ```diff
 + Tarefa 02
