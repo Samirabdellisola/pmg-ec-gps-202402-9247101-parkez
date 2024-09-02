@@ -218,7 +218,7 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 
 ## Marcos Agendados e Entregas
 
-|| ID   | Marco do Projeto                                                  | Descrição Detalhada                                             | Data Prevista        |
+| ID   | Marco do Projeto                                                  | Descrição Detalhada                                             | Data Prevista        |
 |------|-------------------------------------------------------------------|-----------------------------------------------------------------|----------------------|
 | M-1  | Desenvolvimento das páginas principais                           | Implementação das páginas de login, recuperação de senha, e página inicial (home). | 15/10/2024           |
 | M-2  | Liberação do sistema para cadastro de informações e configuração. | Finalização da configuração inicial e cadastro de informações. | 22/10/2024           |
