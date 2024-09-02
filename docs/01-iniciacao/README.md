@@ -153,13 +153,13 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 
 | Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
 |-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        | Salário, alimentação|  1056 Hrs   | R$410,00  | R$432,960 |
-| Hardware                | Celulares, Computadores e periféricos |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
+| Recursos Humanos        | Salário, alimentação|  1056 Hrs   | R$410,00  | R$432.960,00 |
+| Hardware                | Celulares, Computadores e periféricos |            |              |      R$25.000,00       |
+| Serviços de Rede        | Firebase(Blaze)          |            |              |             |    R$2.000,00
+| Hospedagem e Nuvem      |    Apple App Store (iOS)  Google Play Store (Android) e AWS       |            |              |     R$1.000,00        |
+| Software de terceiros   |   Licensa Microsoft e VisualStudio        |            |              |       R$5.000,00      |
+| Serviços e treinamento  |    Acesso a plataforma de cursos       |            |              |     R$3.000,00        |
+| **Total Geral**         |           |            |              |             | R$468.960,00
 
 
 ## Estimativa de Prazo
@@ -175,41 +175,15 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 > * Data de início
 > * Data de término
 
-* Prazo previsto (em horas): XX horas
-* Data de início: __ / __ / _____
-* Data de término: __ / __ / _____
+* Prazo previsto (em horas): 2.664 horas
+* Data de início: 02 / 09 / 2024
+* Data de término: 22 / 12 / 2024
 
 ## Escopo Preliminar e Premissas
 
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
+ Facilitar a reserva de vagas de estacionamento para usuários, permitindo que pesquisem locais de interesse, visualizem estacionamentos próximos e reservem vagas com pagamento parcial antecipado.
 
 ## Declaração de Escopo
-
-> Você pode utilizar como referência o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
-
-> Enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
 
 ### Requisitos Funcionais
 
@@ -217,10 +191,19 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 
 A tabela a seguir apresenta os requisitos funcionais do projeto. 
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| ID     | Descrição do Requisito                                                                                                                                 | Prioridade |
+|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| RF-001 | Permitir que o usuário pesquise estacionamentos próximos ao local desejado.                                                                            | ALTA       |
+| RF-002 | Permitir que o usuário visualize detalhes do estacionamento, como disponibilidade de vagas, preços e horários de funcionamento.                        | ALTA       |
+| RF-003 | Permitir que o usuário faça a reserva de uma vaga de estacionamento através do aplicativo, com pagamento de 30% do valor no ato da reserva.            | ALTA       |
+| RF-004 | Implementar uma funcionalidade para cancelamento de reserva até 15 minutos após a confirmação.                                                         | ALTA       |
+| RF-005 | Calcular automaticamente o valor a ser pago pelo tempo de permanência no estacionamento, com base em tarifas configuradas.                             | ALTA       |
+| RF-006 | Oferecer ao usuário a opção de pagamento do saldo restante ao chegar no estabelecimento.                                                               | ALTA       |
+| RF-007 | Implementar um sistema de notificações para avisar o usuário sobre o status da reserva, prazos para cancelamento e promoções.                          | MÉDIA      |
+| RF-008 | Fornecer recomendações de locais parceiros próximos ao destino do usuário, destacando ofertas e descontos exclusivos.                                  | MÉDIA      |
+| RF-009 | Implementar um clube de assinantes que ofereça benefícios exclusivos, como descontos em estacionamentos, mediante o pagamento de uma mensalidade.       | MÉDIA      |
+| RF-010 | Permitir a aplicação de descontos especiais em estacionamentos próximos a eventos, como shows ou eventos esportivos, para usuários do aplicativo.      | MÉDIA      |
+
 
 ### Requisitos Não Funcionais
 
@@ -228,10 +211,14 @@ A tabela a seguir apresenta os requisitos funcionais do projeto.
 
 A tabela a seguir apresenta os requisitos não funcionais do projeto. 
 
-|ID     | Descrição do Requisito                                            |Prioridade |
-|-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
+| ID     | Descrição do Requisito                                                                                                             | Prioridade |
+|--------|------------------------------------------------------------------------------------------------------------------------------------|------------|
+| RNF-001| O aplicativo deve ser compatível com as plataformas iOS e Android, garantindo uma experiência consistente em ambos os sistemas.     | ALTA       |
+| RNF-002| O sistema deve garantir a proteção dos dados do usuário, especialmente as informações de pagamento, utilizando criptografia SSL/TLS.| ALTA       |
+| RNF-003| O aplicativo deve apresentar tempo de resposta inferior a 2 segundos para consultas de estacionamentos e reservas.                  | MÉDIA      |
+| RNF-004| O aplicativo deve ser escalável, suportando um número crescente de usuários e estacionamentos sem perda significativa de desempenho. | ALTA       |
+| RNF-005| O sistema deve garantir alta disponibilidade, com um tempo de atividade (uptime) de 99,9% para evitar interrupções no serviço.      | ALTA       |
+
 
 
 ### Restrições
@@ -240,10 +227,14 @@ A tabela a seguir apresenta os requisitos não funcionais do projeto.
 
 A tabela a seguir apresenta as restrições do projeto. 
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
+| ID     | Descrição da Restrição                                                                                                                |
+|--------|---------------------------------------------------------------------------------------------------------------------------------------|
+| RES-001| O aplicativo deve ser lançado nas lojas Apple App Store e Google Play Store até o final de dezembro de 2024.                          |
+| RES-002| O desenvolvimento deve ser realizado com um orçamento fixo e limitado, não podendo exceder o valor previamente acordado pelo cliente.  |
+| RES-003| A integração com os sistemas de pagamento deve seguir as regulamentações locais e internacionais, como PCI-DSS, para proteção de dados.|
+| RES-004| As parcerias com estacionamentos e estabelecimentos para recomendações e descontos devem ser formalizadas antes do lançamento do aplicativo. |
+| RES-005| O suporte a atualizações e manutenção do aplicativo deve ser garantido por um período mínimo de 12 meses após o lançamento.            |
+
 
 
 ### Contra-Escopo
