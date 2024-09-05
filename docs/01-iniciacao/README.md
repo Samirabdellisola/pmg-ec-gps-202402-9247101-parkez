@@ -245,20 +245,12 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 ```
 
 # Metodologia
+Nosso projeto será gerenciado com base na metodologia SCRUM, uma abordagem ágil amplamente utilizada para garantir maior eficiência e flexibilidade no desenvolvimento. O SCRUM permite que o trabalho seja dividido em ciclos curtos, promovendo entregas contínuas e incrementais.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Dividimos o fluxo de trabalho em quatro colunas principais: **Product Backlog**, que contém todas as funcionalidades e requisitos do projeto; **Todo**, com as tarefas que serão executadas; **In Progress**, que representa as atividades em andamento; **Test**, para as tarefas em fase de validação; e **Done**, onde ficam registradas as atividades concluídas.
 
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Essa organização promove maior clareza e transparência, facilitando o acompanhamento e a priorização das tarefas de acordo com as necessidades do projeto.
+
 
 ## Divisão de Papéis
 
