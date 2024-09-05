@@ -104,8 +104,6 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 
 ## Avaliação das Partes Interessadas
 
-## Avaliação das Partes Interessadas
-
 | Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio  | Observações |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
 | Felipe Thomaz   | Definir requisitos do aplicativo, priorizar funcionalidades e assegurar que o produto final atenda às necessidades dos usuários              | Alta          | Alta                | Positivo    |               |
