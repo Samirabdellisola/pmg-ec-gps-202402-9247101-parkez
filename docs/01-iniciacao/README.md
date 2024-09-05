@@ -141,7 +141,7 @@ Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os 
 | Hospedagem e Nuvem      |    Apple App Store (iOS)  Google Play Store (Android) e AWS       |            |              |     R$1.000,00        |
 | Software de terceiros   |   Licensa Microsoft e VisualStudio        |            |              |       R$5.000,00      |
 | Serviços e treinamento  |    Acesso a plataforma de cursos       |            |              |     R$3.000,00        |
-| **Total Geral**         |           |            |              |             | R$468.960,00
+| **Total Geral**         |           |            |              |             | R$468.960,00 |
 
 
 ## Estimativa de Prazo
