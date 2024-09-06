@@ -260,13 +260,17 @@ Raphael Rezende é o responsável pela implementação das principais funcionali
 
 ## Ferramentas
 
-| Ambiente              | Plataforma         | Link de Acesso             | Justificativa                                                         |
+| Ambiente              | Plataforma         | Link de Acesso                                                                                                                                                    | Justificativa                                                         |
 |-----------------------|--------------------|----------------------------|-----------------------------------------------------------------------|
 | Quadro Kanban         | Github Projects    | [https://github.com/projects](https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/24/views/1)  | Centralização e organização do projeto no próprio repositório.        |
-| Repositório de código | GitHub             | [https://github.com/parkez ](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-gps-202402-9247101-parkez/tree/master) | Armazenamento e controle de versões do código fonte.                  |
+| Repositório de código | GitHub             | [https://github.com/parkez](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-gps-202402-9247101-parkez/tree/master) | Armazenamento e controle de versões do código fonte.                  |
 | Protótipo Interativo  | Figma              | https://figma.com/parkez    | Visualização e interação com o design do aplicativo em tempo real.    |
 | Documentos Textuais   | LibreOffice Writer | N/A                         | Criação e edição de documentos textuais de forma offline e gratuita.  |
 | Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/    | Criação e compartilhamento de planilhas e gráficos com a equipe.      |
+| Desenvolvimento e Testes | Android Studio     | N/A                         | Ambiente de desenvolvimento para criação e testes do aplicativo Android. |
+| Comunicação e Colaboração | Microsoft Teams | N/A                         | Ferramenta de comunicação e colaboração em tempo real entre a equipe. |
+| E-mails e Agendamentos | Outlook           | N/A                         | Gerenciamento de e-mails e agendamento de reuniões e eventos.         |
+
 
 
 
