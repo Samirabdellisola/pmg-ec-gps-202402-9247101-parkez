@@ -254,10 +254,9 @@ Essa organização promove maior clareza e transparência, facilitando o acompan
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+No desenvolvimento do PARKEZ, cada membro do time desempenha um papel essencial, garantindo que o aplicativo seja entregue com a máxima qualidade e dentro dos prazos estabelecidos. Felipe Thomaz lidera a definição dos requisitos do aplicativo, priorizando as funcionalidades mais importantes para os usuários. Além disso, Felipe também contribuirá diretamente com o design de UI (Interface do Usuário) e UX (Experiência do Usuário), assegurando que o aplicativo seja não apenas funcional, mas também intuitivo e agradável de usar. Seu foco está em assegurar que o produto final atenda de maneira precisa às necessidades e expectativas dos usuários.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
+Raphael Rezende é o responsável pela implementação das principais funcionalidades do aplicativo, garantindo que todas as soluções técnicas estejam alinhadas com os padrões de qualidade esperados. Mauricio desempenha um papel crucial na validação da usabilidade, fornecendo feedback contínuo sobre a experiência do usuário, ajudando a refinar a interface e a funcionalidade do aplicativo. Por fim, Bruno apoia o time no desenvolvimento de funcionalidades avançadas e no design da arquitetura do aplicativo, garantindo que o PARKEZ seja robusto e escalável. Juntos, esse time altamente qualificado assegura que cada aspecto do aplicativo seja cuidadosamente planejado e executado.
 
 ## Ferramentas
 
