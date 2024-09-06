@@ -260,23 +260,15 @@ Raphael Rezende é o responsável pela implementação das principais funcionali
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+| Ambiente              | Plataforma         | Link de Acesso             | Justificativa                                                         |
+|-----------------------|--------------------|----------------------------|-----------------------------------------------------------------------|
+| Quadro Kanban         | Github Projects    | [https://github.com/projects](https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/24/views/1)  | Centralização e organização do projeto no próprio repositório.        |
+| Repositório de código | GitHub             | [https://github.com/parkez ](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-gps-202402-9247101-parkez/tree/master) | Armazenamento e controle de versões do código fonte.                  |
+| Protótipo Interativo  | Figma              | https://figma.com/parkez    | Visualização e interação com o design do aplicativo em tempo real.    |
+| Documentos Textuais   | LibreOffice Writer | N/A                         | Criação e edição de documentos textuais de forma offline e gratuita.  |
+| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/    | Criação e compartilhamento de planilhas e gráficos com a equipe.      |
 
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
-> Todas as ferramentas utilizadas devem ser listadas.
-> Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
-> A necessidade de uso de licenças e possíveis custos relacionados devem ser indicados.
 
-| Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
-|-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | | | |
-| Cronograma do Projeto | | | |
-| Matriz RACI           | | | |
 
 ```diff
 + Tarefa 03:
