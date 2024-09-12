@@ -41,94 +41,78 @@
 
 ## Problema
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> Problem corresponde a uma lacuna a ser preenchida, uma necessidade a ser atendida, ou uma dificuldade a ser superada.
-> A definição precisa do problema ajuda a orientar as atividades do projeto, direcionando os esforços em sua solução.
-> Seu entendimento facilita a comunicação eficaz entre os membros da equipe e as partes interessadas, estabelecendo uma base comum para a colaboração.
-> Nesta seção, deve ser descrito apenas o problema e seu contexto.
-> Soluções para o problema devem ser descritas na seção correspondente.
+Atualmente, encontrar uma vaga de estacionamento, especialmente em áreas urbanas e durante horários de pico, é uma tarefa difícil e estressante para motoristas. Muitos estabelecimentos possuem vagas limitadas ou não oferecem informações claras sobre a disponibilidade de estacionamento, o que leva a desperdício de tempo e combustível. Além disso, a incerteza sobre a disponibilidade de vagas faz com que muitos clientes deixem de frequentar determinados estabelecimentos, temendo não encontrar um local para estacionar. A falta de uma solução centralizada para reservas de vagas prejudica a experiência dos motoristas, que prefeririam chegar ao destino com a segurança de que terão uma vaga reservada. Essa dificuldade em gerenciar a disponibilidade e o acesso a vagas de estacionamento impacta negativamente tanto motoristas quanto proprietários de estabelecimentos e estacionamentos, que perdem oportunidades de atrair e reter clientes.
 
 ## Objetivos
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Objetivos
+Objetivo Geral:
+Desenvolver um aplicativo mobile que permita aos usuários localizar e reservar vagas de estacionamento com antecedência, proporcionando maior conveniência e eficiência na gestão de vagas em áreas urbanas.
 
-> Aqui você deve descrever os objetivos do trabalho.
-> Apresente um Objetivo Geral, sintetizado em uma única frase.
-> Apresente também 3 ou 4 objetivos específicos (sub-produtos do sistema ou objetivos extras que podem ser alcançados pela construção do software).
-> 
-> **Link Útil**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Objetivos Específicos:
 
+Criar um sistema de busca que permita aos usuários localizar estabelecimentos e estacionamentos associados ao aplicativo, exibindo informações sobre a disponibilidade de vagas em tempo real.
+Implementar um mecanismo de reserva de vagas que possibilite aos usuários garantir uma vaga antes de chegar ao local, pagando uma entrada pelo app e o restante no estacionamento.
+Desenvolver funcionalidades de promoção e parcerias, permitindo que usuários aproveitem descontos e benefícios em eventos e estabelecimentos associados.
+Oferecer um clube de assinantes premium com vantagens exclusivas, como tarifas reduzidas para usuários frequentes do aplicativo.
 
 ## Justificativa
 
-......  COLOQUE AQUI O SEU TEXTO ......
+O desenvolvimento do aplicativo PARKEZ responde a uma necessidade crescente de motoristas que enfrentam dificuldades em encontrar vagas de estacionamento, especialmente em áreas urbanas densamente povoadas. A incerteza sobre a disponibilidade de vagas frequentemente desencoraja clientes de frequentar estabelecimentos ou participar de eventos, resultando em perdas tanto para os consumidores quanto para os proprietários de negócios.
 
-> Aqui você deve descrever os benefícios esperados pela construção do projeto.
-> As justificativas do projeto explicam as razões e a necessidade da iniciativa.
-> Elas demonstram como o projeto atende a uma demanda específica, resolve um problema ou aproveita uma oportunidade identificada.
-> Além disso, definem os benefícios esperados e o impacto previsto para a organização ou a comunidade. 
+Ao fornecer uma solução centralizada que permite a reserva antecipada de vagas, o PARKEZ não apenas melhora a experiência do usuário, proporcionando maior conveniência e segurança, mas também contribui para a otimização do uso de vagas de estacionamento. Estabelecimentos e estacionamentos associados poderão atrair mais clientes, aproveitando a visibilidade e a facilidade de uso do aplicativo. Além disso, a possibilidade de parcerias e promoções dentro do app agrega valor para todos os envolvidos, incentivando a fidelização de clientes.
+
+Os benefícios esperados incluem:
+
+Redução do tempo e estresse na busca por vagas, resultando em uma experiência mais agradável para motoristas.
+Aumento da frequência de visitas a estabelecimentos associados, impulsionando suas receitas.
+Melhoria na gestão de vagas de estacionamento, otimizando o uso do espaço disponível.
+Criação de um novo canal de marketing e vendas para estabelecimentos e eventos parceiros.
+Essas justificativas demonstram como o PARKEZ atende a uma demanda específica, oferecendo uma solução prática e inovadora para um problema comum, com impactos positivos tanto para os usuários quanto para a comunidade de negócios.
 
 ## Critérios de Sucesso
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> Os critérios de sucesso indicam uma forma avaliar o êxito do trabalho e analisar se o projeto realmente alcançou os objetivos estabelecidos. 
-> Esses critérios geralmente abrangem diversas dimensões, incluindo a entrega dentro do prazo e orçamento estipulados, a satisfação do cliente, a qualidade do produto ou serviço final, e a eficiência na utilização de recursos. 
-> Além disso, a capacidade de atender aos requisitos e expectativas das partes interessadas, bem como a gestão eficaz de riscos, são considerados aspectos importantes para determinar o sucesso de um projeto. 
+Os critérios de sucesso do projeto PARKEZ são fundamentais para avaliar se os objetivos estabelecidos foram alcançados e se o projeto foi executado de maneira eficaz. Esses critérios incluem:
+
+1. Entrega dentro do prazo e orçamento: O projeto será considerado bem-sucedido se for concluído dentro do cronograma planejado e sem ultrapassar o orçamento estipulado.
+
+2. Satisfação do cliente: A aceitação positiva do aplicativo pelos usuários, medida por avaliações, feedbacks e taxa de adesão, será um indicador chave de sucesso. A satisfação dos parceiros comerciais (estabelecimentos e estacionamentos) também será avaliada.
+
+3. Qualidade do produto: O PARKEZ deve ser entregue com alta qualidade, demonstrando estabilidade, usabilidade, e desempenho conforme especificado. A ausência de falhas críticas e a resposta rápida a eventuais problemas são aspectos essenciais.
+
+4. Eficiência na utilização de recursos: O projeto será avaliado pela eficiência no uso dos recursos disponíveis, incluindo equipe, tecnologia e infraestrutura. A capacidade de otimizar o uso desses recursos sem comprometer a qualidade será um critério importante.
+
+5. Atendimento aos requisitos e expectativas: O aplicativo deve cumprir todos os requisitos funcionais e não funcionais definidos no escopo do projeto, atendendo às expectativas das partes interessadas, incluindo usuários finais, parceiros e investidores.
+
+6. Gestão eficaz de riscos: O sucesso do projeto também será medido pela capacidade da equipe de identificar, mitigar e responder a riscos ao longo do ciclo de desenvolvimento, minimizando impactos negativos e garantindo a continuidade das atividades.
+
+  Esses critérios fornecem uma base clara para avaliar o êxito do projeto, assegurando que o PARKEZ atenda às necessidades dos usuários e parceiros enquanto é entregue de forma eficiente e dentro dos parâmetros estabelecidos.
 
 # Partes Interessadas
-
-> Relacione as partes interessadas no seu projeto. 
-> Você deve descrever as partes interessadas e indicar qual o nível de influência em relação ao projeto.
-> Indique as principais pessoas (clientes, fornecedores, etc), indicando possíveis expectativas, nível de influência e possível importância para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Registro de Partes Interessadas](artefatos/registro-partes-interessadas.xlsx)
 
 ## Identificação das Partes Interessadas
 
 | Nome            | Posição / Cargo | Papel Projeto | E-mail      | Telefone    |
 |-----------------|-----------------|---------------|-------------|-------------|
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-|                 |                 |               |             |             |
-
-> Opções de identificação dos stakeholders:
-> - Nome: nome da parte interessada (inclui funcionários da empresa e do cliente)
-> - Posição / Cargo: Identificação do cargo da parte interessada
-> - - Ex.: Gerente de TI, Funcionário da Linha de Produção, Presidente, Analista de Sistema do Cliente, Desenvolvedor, etc.
-> - Papel no Projeto: Papel da pessoa no projeto
-> - - Ex.: Desenvolvedor, Analista de Requisitos, Analista de Testes, Product Owner, etc.
-> - E-mail: E-mail do Stakeholder (*não utilizar informações pessoais*)
-> - Telefone: Telefone do Stakeholder, incluindo WhatsApp (*não utilizar informações pessoais*)
+|  Felipe Thomaz  | Coordenador Técnico  | Desenvolvedor & UX       | felipetomaz009@gmail.com | 31999270803 |
+| Raphael Rezende | Gerente de Projetos  | Desenvolvedor Principal  | rapharreis2020@gmail.com | 31988518736 |
+|    Mauricio     | Analista Sênior      | SQA teste                | mauricioribeiro_99@hotmail.com| 319837-9204 |
+|     Bruno       | Desenvolvedor Sênior | Desenvolvedor            | brunoh85@gmail.com     | 37908195422 |
+|     Matheus     | Desenvolvedor Júnior | Desenvolvedor            | matheuslopes_2@gmail.com | 31984132751 |
+|     Augusto     | Cliente              | Apontar as necessidades  | augustoMag@hotmail.com   | 31978152231 |
 
 ## Avaliação das Partes Interessadas
 
-| Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio       | Observações   |
+| Nome            | Expectativa no Projeto | Influência    | Importância / Poder | Apoio  | Observações |
 |-----------------|------------------------|---------------|---------------------|-------------|---------------|
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
-|                 |                        |               |                     |             |               |
+| Felipe Thomaz   | Definir requisitos do aplicativo, priorizar funcionalidades e assegurar que o produto final atenda às necessidades dos usuários              | Alta          | Alta                | Positivo    |               |
+| Raphael Rezende | Implementar as principais funcionalidades do aplicativo e garantir a qualidade técnica do produto.                                          | Média         | Alta                | Positivo    |               |
+| Mauricio        | Validar a usabilidade do aplicativo e fornecer feedback sobre a experiência do usuário.                                                     | Baixa         | Alta                | Positivo    |               |
+| Bruno           | Contribuir com o desenvolvimento de funcionalidades avançadas e apoiar o time no design da arquitetura do aplicativo.                        | Média         | Alta                | Positivo    |               |
+| Matheus         | Apoiar no desenvolvimento de funcionalidades básicas e adquirir experiência prática em projetos de software.                                | Baixa         | Média               | Positivo    |               |
+| Augusto         | Fornecer feedback contínuo e detalhado sobre as necessidades e expectativas como cliente, garantindo que o produto final atenda aos requisitos | Alta          | Alta                | Positivo    |               |
 
-> Opções de avaliação:
-> - Expectativa: descrição da expectativa da parte interessada no projeto.
-> - - Ex.: Diminuição do tempo de realização das tarefas, aumento da produtividade, aumento da satisfação do cliente, etc.
-> - Influência: Alta, Média, Baixa
-> - Importância: Alta, Média, Baixa
-> - Apoio: Positivo, Negativo, Neutro
-> - Observações: Informações adicionais, para o cliente.
 
 ```diff
 + Tarefa 01
@@ -144,158 +128,110 @@
 
 # Termo de Abertura do Projeto
 
-> O Termo de Abertura do Projeto (TAP) representa o ponto de partida oficial para o empreendimento. 
-> Ele sintetiza de maneira clara e concisa os objetivos, escopo, partes interessadas envolvidas, entregas esperadas, cronograma preliminar e recursos necessários para a execução bem-sucedida do projeto. 
-> O TAP funciona como um contrato inicial entre a equipe do projeto e as partes interessadas, estabelecendo as bases para uma compreensão compartilhada dos propósitos e limites do projeto. 
-> Ao delinear esses elementos de forma detalhada, o Termo de Abertura do Projeto (TAP) fornece uma direção sólida para orientar as atividades subsequentes, facilitando a gestão eficaz do projeto desde o início até o encerramento. 
-> Essa documentação garante a clareza, alinhamento e comprometimento de todos os envolvidos, contribuindo assim para o sucesso do projeto.
-
-> Você pode utilizar como referência o seguinte documento:
-> [Termo de Abertura do Projeto](artefatos/termo-abertura-projeto.docx)
-
 ## Estimativa de Custo
 
-......  COLOQUE AQUI O SEU TEXTO ......
 
-> A avaliação da viabilidade econômica busca determinar a sustentabilidade financeira e o retorno sobre o investimento do empreendimento. 
-> Este processo envolve a análise dos custos associados ao projeto, incluindo investimentos iniciais, despesas operacionais e potenciais custos de manutenção. 
-> Simultaneamente, são examinados os benefícios esperados, como receitas, economias de custos e ganhos tangíveis e intangíveis. 
-> A elaboração de projeções financeiras realistas e a aplicação de métricas como o Valor Presente Líquido (VPL) e a Taxa Interna de Retorno (TIR) contribuem para uma avaliação abrangente da viabilidade econômica do projeto. 
-> Este processo permite que os gestores de projeto e as partes interessadas tomem decisões informadas sobre a continuidade, ajustes ou mesmo a interrupção do projeto, garantindo uma alocação eficiente de recursos e maximizando os benefícios econômicos esperados.
+| Item de Custo           | Descrição                                   | Qtd. horas | Valor / hora | Valor total |
+|-------------------------|---------------------------------------------|------------|--------------|-------------|
+| Recursos Humanos        | Salário, alimentação                        | 1056 Hrs    | R$410,00     | R$432.960,00 |
+| Hardware                | Celulares, Computadores e periféricos       |            |              | R$25.000,00  |
+| Serviços de Rede        | Firebase (Blaze)                            |            |              | R$2.000,00   |
+| Hospedagem e Nuvem      | Apple App Store (iOS), Google Play Store (Android) e AWS |     |              | R$1.000,00   |
+| Software de terceiros   | Licença Microsoft e VisualStudio            |            |              | R$5.000,00   |
+| Serviços e treinamento  | Acesso a plataforma de cursos               |            |              | R$3.000,00   |
+| **Total Geral**         |                                             |            |              | R$468.960,00 |
 
-......  ATUALIZE OS ITENS DE CUSTO DO SISTEMA. ADICIONE NOVOS OU SUBDIVIDA ITENS, CASO NECESSÁRIO ......
-
-| Item de Custo           | Descrição | Qtd. horas | Valor / hora | Valor total |
-|-------------------------|-----------|------------|--------------|-------------|
-| Recursos Humanos        |           |            |              |             |
-| Hardware                |           |            |              |             |
-| Serviços de Rede        |           |            |              |             |
-| Hospedagem e Nuvem      |           |            |              |             |
-| Software de terceiros   |           |            |              |             |
-| Serviços e treinamento  |           |            |              |             |
-| **Total Geral**         |           |            |              |             |
 
 
 ## Estimativa de Prazo
 
-......  COLOQUE AQUI O SEU TEXTO ......
-
-> A estimativa de prazo orienta tanto o cliente quanto a equipe de desenvolvimento do projeto em termos do tempo necessário para a conclusão do projeto como um todo. 
-> Esta estimativa possibilita a criação de um cronograma realista e viável, permitindo o planejamento adequado das fases do projeto, alocação de recursos de maneira eficiente e antecipação de eventuais desafios.
-> Uma estimativa precisa orienta a execução do projeto, contribui para a gestão de expectativas e para o estabelecimento de metas alcançáveis.
-
-> Indique:
-> * Prazo previsto (em horas) 
-> * Data de início
-> * Data de término
-
-* Prazo previsto (em horas): XX horas
-* Data de início: __ / __ / _____
-* Data de término: __ / __ / _____
+* Prazo previsto (em horas): 8.000 horas
+* Data de início: 02 / 09 / 2024
+* Data de término: 22 / 03 / 2025
 
 ## Escopo Preliminar e Premissas
 
-> Os requisitos preliminares fornecem uma visão inicial do escopo, funcionalidades-chave e as expectativas a serem atendidas. 
-> 
-> ***A quantidade mínima de requisitos a serem preenchidos nas seções abaixo não incluem os exemplos previamente fornecidos.***
+ Facilitar a reserva de vagas de estacionamento para usuários, permitindo que pesquisem locais de interesse, visualizem estacionamentos próximos e reservem vagas com pagamento parcial antecipado.
 
 ## Declaração de Escopo
 
-> Você pode utilizar como referência o seguinte documento:
-- [Declaração de Escopo](artefatos/declaracao-escopo.docx)
-
-> Enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
->
-> - [Requisitos Funcionais (RF)](https://pt.wikipedia.org/wiki/Requisito_funcional):
->   correspondem a uma funcionalidade que deve estar presente na
->   plataforma (ex: cadastro de usuário).
->
-> - [Requisitos Não Funcionais (RNF)](https://pt.wikipedia.org/wiki/Requisito_n%C3%A3o_funcional):
->   correspondem a uma característica técnica, seja de usabilidade,
->   desempenho, confiabilidade, segurança ou outro (ex: suporte a
->   dispositivos iOS e Android).
->
-> Lembre-se que cada requisito deve corresponder à uma e somente uma
-> característica alvo da sua solução. Além disso, certifique-se de que
-> todos os aspectos capturados nas Histórias de Usuário foram cobertos.
-> 
-> **Links Úteis**:
-> 
-> - [O que são Requisitos Funcionais e Requisitos Não Funcionais?](https://codificar.com.br/requisitos-funcionais-nao-funcionais/)
-> - [O que são requisitos funcionais e requisitos não funcionais?](https://analisederequisitos.com.br/requisitos-funcionais-e-requisitos-nao-funcionais-o-que-sao/)
-
-
 ### Requisitos Funcionais
 
-......  ATUALIZE OS REQUISITOS FUNCIONAIS DO SISTEMA (MÍNIMO 10) ......
+| ID     | Descrição do Requisito                                                                                                                                 | Prioridade |
+|--------|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------|
+| RF-001 | Permitir que o usuário pesquise estacionamentos próximos ao local desejado.                                                                            | ALTA       |
+| RF-002 | Permitir que o usuário visualize detalhes do estacionamento, como disponibilidade de vagas, preços e horários de funcionamento.                        | ALTA       |
+| RF-003 | Permitir que o usuário faça a reserva de uma vaga de estacionamento através do aplicativo, com pagamento de 30% do valor no ato da reserva.            | ALTA       |
+| RF-004 | Implementar uma funcionalidade para cancelamento de reserva até 15 minutos após a confirmação.                                                         | ALTA       |
+| RF-005 | Calcular automaticamente o valor a ser pago pelo tempo de permanência no estacionamento, com base em tarifas configuradas.                             | ALTA       |
+| RF-006 | Oferecer ao usuário a opção de pagamento do saldo restante ao chegar no estabelecimento.                                                               | ALTA       |
+| RF-007 | Implementar um sistema de notificações para avisar o usuário sobre o status da reserva, prazos para cancelamento e promoções.                          | MÉDIA      |
+| RF-008 | Fornecer recomendações de locais parceiros próximos ao destino do usuário, destacando ofertas e descontos exclusivos.                                  | MÉDIA      |
+| RF-009 | Implementar um clube de assinantes que ofereça benefícios exclusivos, como descontos em estacionamentos, mediante o pagamento de uma mensalidade.       | MÉDIA      |
+| RF-010 | Permitir a aplicação de descontos especiais em estacionamentos próximos a eventos, como shows ou eventos esportivos, para usuários do aplicativo.      | MÉDIA      |
 
-A tabela a seguir apresenta os requisitos funcionais do projeto. 
-
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 ### Requisitos Não Funcionais
 
-......  ATUALIZE OS REQUISITOS NÃO FUNCIONAIS DO SISTEMA (MÍNIMO 5) ......
+| ID     | Descrição do Requisito                                                                                                             | Prioridade |
+|--------|------------------------------------------------------------------------------------------------------------------------------------|------------|
+| RNF-001| O aplicativo deve ser compatível com as plataformas iOS e Android, garantindo uma experiência consistente em ambos os sistemas.     | ALTA       |
+| RNF-002| O sistema deve garantir a proteção dos dados do usuário, especialmente as informações de pagamento, utilizando criptografia SSL/TLS.| ALTA       |
+| RNF-003| O aplicativo deve apresentar tempo de resposta inferior a 2 segundos para consultas de estacionamentos e reservas.                  | MÉDIA      |
+| RNF-004| O aplicativo deve ser escalável, suportando um número crescente de usuários e estacionamentos sem perda significativa de desempenho. | ALTA       |
+| RNF-005| O sistema deve garantir alta disponibilidade, com um tempo de atividade (uptime) de 99,9% para evitar interrupções no serviço.      | ALTA       |
 
-A tabela a seguir apresenta os requisitos não funcionais do projeto. 
-
-|ID     | Descrição do Requisito                                            |Prioridade |
-|-------|-------------------------------------------------------------------|-----------|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA     | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s             | BAIXA     | 
 
 
 ### Restrições
 
-......  ATUALIZE AS RESTRIÇÕES DO SISTEMA (MÍNIMO 5) ......
 
-A tabela a seguir apresenta as restrições do projeto. 
+| ID     | Descrição da Restrição                                                                                                                |
+|--------|---------------------------------------------------------------------------------------------------------------------------------------|
+| RES-001| O aplicativo deve ser lançado nas lojas Apple App Store e Google Play Store até o final de dezembro de 2024.                          |
+| RES-002| O desenvolvimento deve ser realizado com um orçamento fixo e limitado, não podendo exceder o valor previamente acordado pelo cliente.  |
+| RES-003| A integração com os sistemas de pagamento deve seguir as regulamentações locais e internacionais, como PCI-DSS, para proteção de dados.|
+| RES-004| As parcerias com estacionamentos e estabelecimentos para recomendações e descontos devem ser formalizadas antes do lançamento do aplicativo. |
+| RES-005| O suporte a atualizações e manutenção do aplicativo deve ser garantido por um período mínimo de 12 meses após o lançamento.            |
 
-|ID    | Descrição do Requisito  | Prioridade |
-|------|-----------------------------------------|-------|
-|RE-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RE-002| Emitir um relatório de tarefas no mês   | MÉDIA |
 
 
 ### Contra-Escopo
 
-......  ATUALIZE O CONTRA-ESCOPO DO SISTEMA (MÍNIMO 5) ......
+| ID    | Descrição do Contra-Escopo                                 |
+|-------|------------------------------------------------------------|
+| CE-001| Gerenciamento de tráfego e rotas                           |
+| CE-002| Suporte a pagamentos de outros serviços                    |
+| CE-003| Integração com sistemas de transporte público               |
+| CE-004| Funcionalidades para veículos de grande porte               |
+| CE-005| Personalização detalhada de estacionamentos                 |
 
-A tabela a seguir apresenta as atividades que não serão executadas no projeto
-
-|ID    | Descrição do Contra-Escopo          | 
-|------|-------------------------------------|
-|CE-001| Treinamento de modelo de LLM        |
-|CE-002| Pesquisa de viabilidade do mercado. |
 
 ### Condições para início do Projeto
 
-......  ATUALIZE AS CONDIÇÕES PARA INÍCIO DOS PROJETOS (MÍNIMO 3) ......
-
-A tabela a seguir, apresente as condições para que o projeto seja iniciado.
-
-|ID    | Descrição de Condições para Início do Projeto    | 
-|------|--------------------------------------------------|
-|CI-001| Assinatura de contrato de prestação de serviços. |
-|CI-002| Apresentação de garantias definidas no contrato. |
+| ID    | Descrição da Condição para Início do Projeto                  |
+|-------|---------------------------------------------------------------|
+| CI-001| Aprovação do orçamento e alocação de recursos financeiros     |
+| CI-002| Definição e aprovação dos requisitos e especificações do sistema |
+| CI-003| Estabelecimento de parcerias e acordos com estabelecimentos    |
 
 ## Marcos Agendados e Entregas
 
-......  ATUALIZE OS MARCOS AGENDADOS DO PROJETO E AS DATAS PARA ENTREGAS DAS TAREFAS ......
+| ID   | Marco do Projeto                                                  | Descrição Detalhada                                             | Data Prevista        |
+|------|-------------------------------------------------------------------|-----------------------------------------------------------------|----------------------|
+| M-1  | Desenvolvimento das páginas principais                           | Implementação das páginas de login, recuperação de senha, e página inicial (home). | 15/10/2024           |
+| M-2  | Liberação do sistema para cadastro de informações e configuração. | Finalização da configuração inicial e cadastro de informações. | 22/10/2024           |
+| M-3  | Desenvolvimento da funcionalidade de pesquisa e reserva de vagas  | Implementação das funcionalidades de pesquisa de locais e reserva de vagas com processamento de pagamentos. | 05/11/2024           |
+| M-4  | Desenvolvimento da funcionalidade de cancelamento de reservas      | Implementação da opção para cancelar reservas e políticas associadas. | 15/11/2024           |
+| M-5  | Desenvolvimento da página de perfil e histórico de reservas       | Criação das páginas de perfil do usuário e histórico de reservas. | 22/11/2024           |
+| M-6  | Implementação do sistema de notificações                           | Criação de notificações para confirmações de reserva, cancelamento e outras atualizações importantes. | 01/12/2024           |
+| M-7  | Disponibilização do clube de assinantes e benefícios               | Lançamento do clube de assinantes com benefícios e descontos exclusivos. | 15/12/2024           |
+| M-8  | Ativação da funcionalidade de descontos para eventos               | Implementação de descontos exclusivos para eventos especiais e integração com o sistema. | 01/01/2025           |
+| M-9  | Realização de testes finais e ajustes                            | Testes finais do sistema, correção de bugs e ajustes baseados no feedback dos usuários. | 01/03/2025           |
+| M-10 | Deploy nas plataformas de download (App Store e Google Play)       | Preparação e lançamento do aplicativo nas principais plataformas de download. | 10/03/2025           |
+| M-11 | Permissão para uso do sistema por usuários focais.                | Início da fase de uso real com usuários focais para validar a funcionalidade completa do sistema. | 22/03/2025           |
 
-A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos (requisitos).
 
-|ID   | Marco do Projeto                                                  | 
-|-----|-------------------------------------------------------------------|
-|M-1  | Liberação do sistema para cadastro de informações e configuração. |
-|M-2  | Permissão para uso do sistema, por usuários focais.               |
-|M-3  |                                                                   |
-|M-4  |                                                                   |
-|M-5  |                                                                   |
-|M-6  |                                                                   |
 
 ```diff
 + Tarefa 02
@@ -309,47 +245,34 @@ A tabela a seguir, identifique os marcos do projeto e os entregáveis previstos 
 ```
 
 # Metodologia
+Nosso projeto será gerenciado com base na metodologia SCRUM, uma abordagem ágil amplamente utilizada para garantir maior eficiência e flexibilidade no desenvolvimento. O SCRUM permite que o trabalho seja dividido em ciclos curtos, promovendo entregas contínuas e incrementais.
 
-......  COLOQUE AQUI O SEU TEXTO ......
+Dividimos o fluxo de trabalho em quatro colunas principais: **Product Backlog**, que contém todas as funcionalidades e requisitos do projeto; **Todo**, com as tarefas que serão executadas; **In Progress**, que representa as atividades em andamento; **Test**, para as tarefas em fase de validação; e **Done**, onde ficam registradas as atividades concluídas.
 
-> Nesta parte do documento, você deve apresentar a metodologia adotada pelo grupo, descrevendo o processo de trabalho baseado nas metodologias ágeis, a divisão de papéis e tarefas e as ferramentas empregadas.
->
-> Coloque detalhes sobre o processo utilizado e a implementação do Framework Scrum seguido pelo grupo. 
-> O grupo deverá gerenciar as tarefas utilizando o GitHub Project para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
-> 
-> **Links Úteis**:
-> - [Github Project](https://docs.github.com/en/issues/planning-and-tracking-with-projects/creating-projects/creating-a-project)
-> - [O que é o GitHub Projects? | Guia de Iniciantes](https://www.youtube.com/watch?v=vxYTpsFKdiQ&ab_channel=JulioArruda)
-> - [Introduction to GitHub Project Boards](https://www.youtube.com/watch?v=idZyqNIrt84&list=PLiO7XHcmTslc5hGrbnnmHIb0SeJLTpOEu&ab_channel=MickeyGousset)
-> - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Essa organização promove maior clareza e transparência, facilitando o acompanhamento e a priorização das tarefas de acordo com as necessidades do projeto.
+
 
 ## Divisão de Papéis
 
-......  COLOQUE AQUI O SEU TEXTO ......
+No desenvolvimento do PARKEZ, cada membro do time desempenha um papel essencial, garantindo que o aplicativo seja entregue com a máxima qualidade e dentro dos prazos estabelecidos. Felipe Thomaz lidera a definição dos requisitos do aplicativo, priorizando as funcionalidades mais importantes para os usuários. Além disso, Felipe também contribuirá diretamente com o design de UI (Interface do Usuário) e UX (Experiência do Usuário), assegurando que o aplicativo seja não apenas funcional, mas também intuitivo e agradável de usar. Seu foco está em assegurar que o produto final atenda de maneira precisa às necessidades e expectativas dos usuários.
 
-> Apresente a divisão de papéis e tarefas entre os membros do grupo.
-> Indique as responsabilidades de cada membro do grupo no projeto.
+Raphael Rezende é o responsável pela implementação das principais funcionalidades do aplicativo, garantindo que todas as soluções técnicas estejam alinhadas com os padrões de qualidade esperados. Mauricio desempenha um papel crucial na validação da usabilidade, fornecendo feedback contínuo sobre a experiência do usuário, ajudando a refinar a interface e a funcionalidade do aplicativo. Por fim, Bruno apoia o time no desenvolvimento de funcionalidades avançadas e no design da arquitetura do aplicativo, garantindo que o PARKEZ seja robusto e escalável. Juntos, esse time altamente qualificado assegura que cada aspecto do aplicativo seja cuidadosamente planejado e executado.
 
 ## Ferramentas
 
-......  COLOQUE AQUI O SEU TEXTO - SIGA O EXEMPLO DA TABELA ABAIXO  ......
+| Ambiente              | Plataforma         | Link de Acesso                                                                                                                                                    | Justificativa                                                         |
+|-----------------------|--------------------|----------------------------|-----------------------------------------------------------------------|
+| Quadro Kanban         | Github Projects    | [https://github.com/projects](https://github.com/orgs/ICEI-PUC-Minas-PMG-EC-GPS/projects/24/views/1)  | Centralização e organização do projeto no próprio repositório.        |
+| Repositório de código | GitHub             | [https://github.com/parkez](https://github.com/ICEI-PUC-Minas-PMG-EC-GPS/pmg-ec-gps-202402-9247101-parkez/tree/master) | Armazenamento e controle de versões do código fonte.                  |
+| Protótipo Interativo  | Figma              | https://figma.com/parkez    | Visualização e interação com o design do aplicativo em tempo real.    |
+| Documentos Textuais   | LibreOffice Writer | N/A                         | Criação e edição de documentos textuais de forma offline e gratuita.  |
+| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/    | Criação e compartilhamento de planilhas e gráficos com a equipe.      |
+| Desenvolvimento e Testes | Android Studio     | N/A                         | Ambiente de desenvolvimento para criação e testes do aplicativo Android. |
+| Comunicação e Colaboração | Microsoft Teams | N/A                         | Ferramenta de comunicação e colaboração em tempo real entre a equipe. |
+| E-mails e Agendamentos | Outlook           | N/A                         | Gerenciamento de e-mails e agendamento de reuniões e eventos.         |
 
-> Liste as ferramentas empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
-> Todas as ferramentas utilizadas devem ser listadas.
-> Qualquer tipo de ferramenta que for utilizada para construção de um artefato deve ser identificada, uma vez que podem ser necessárias alterações.
-> A necessidade de uso de licenças e possíveis custos relacionados devem ser indicados.
 
-| Ambiente              | Plataforma         | Link de Acesso             | Justificativa |
-|-----------------------|--------------------|----------------------------|---------------|
-| Quadro Kanban         | Github             | https://github.com/XXXXXXX | Centralização e organização do projeto no próprio repositório. |
-| Repositório de código | GitHub             | https://github.com/XXXXXXX |               |
-| Protótipo Interativo  | MavelApp ou Figma  | https://figma.com/XXXXXXX  |               |
-| Documentos Textuais   | LibreOffice Writer | N/A                        |               |
-| Planilhas e Gráficos  | Google Planilhas   | https://docs.google.com/   |               |
-| EAP / WBS             | | | |
-| Cronograma do Projeto | | | |
-| Matriz RACI           | | | |
+
 
 ```diff
 + Tarefa 03:
