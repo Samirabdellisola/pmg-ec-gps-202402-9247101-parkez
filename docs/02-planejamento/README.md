@@ -48,6 +48,49 @@
 
 > Crie uma nova imagem da Estrutura Analítica do Projeto. Não se esqueça de adicionar o documento editável no repositório.
 
+
+
+
+
+
+
+# Estrutura Analítica do Projeto (EAP) - Parkez
+
+## 1. Planejamento
+   1.1. Definição de Escopo
+   1.2. Análise de Requisitos
+   1.3. Estimativa de Recursos e Custos
+   1.4. Cronograma
+
+## 2. Desenvolvimento
+   2.1. Backend
+      2.1.1. Sistema de Busca de Estacionamentos
+      2.1.2. Sistema de Reserva de Vagas
+      2.1.3. Integração com Estacionamentos
+   2.2. Frontend
+      2.2.1. Interface do Usuário (UI)
+      2.2.2. Aplicativo Mobile
+   2.3. Integração com APIs de Pagamento
+
+## 3. Testes e Validação
+   3.1. Testes de Funcionalidade
+   3.2. Testes de Usabilidade
+   3.3. Testes de Desempenho
+
+## 4. Implementação e Lançamento
+   4.1. Publicação nas App Stores
+   4.2. Monitoramento Pós-Lançamento
+
+## 5. Marketing e Parcerias
+   5.1. Parcerias com Estacionamentos
+   5.2. Campanhas de Divulgação
+
+
+
+
+
+
+
 ![Estrutura Analítica do Projeto](images/exemplo_wbs.png)
 
 > Softwares recomendados: 
